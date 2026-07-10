@@ -1,0 +1,6 @@
+name: NoDropDestroy
+version: '1.0.0'
+main: com.vqru.nodrop.NoDropDestroy
+api-version: '1.21'
+author: vqru
+description: Prevents dropped item entities from being destroyed by explosions (TNT, creepers, etc).
